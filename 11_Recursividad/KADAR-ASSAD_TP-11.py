@@ -92,6 +92,7 @@ def contar_digito(num,n):
 
 # Programa principal
 '''
+'''
 # Ejercicio 1
 
 num = int(input("Ingrese un número: "))
@@ -126,7 +127,6 @@ print(suma_digitos(suma_dig))
 
 contador_bloques = int(input("Ingrese la cantidad de bloques de la base de la pirámide: "))
 print(contar_bloques(contador_bloques))
-'''
 
 #Ejercicio 8
 
