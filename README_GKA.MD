@@ -6,6 +6,9 @@
 - **Nombre:** Kadar Assad, Germán  
 - **Comisión:** M2025-15  
 
+# 💻 Link al video de Youtube del trabajo práctico integrador:
+https://youtu.be/EtfTSW-oekQ
+
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
 
