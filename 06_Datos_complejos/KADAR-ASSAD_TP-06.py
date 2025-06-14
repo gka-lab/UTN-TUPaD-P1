@@ -1,6 +1,7 @@
 
 # Ejercicio 1
 '''
+'''
 precios_frutas = {'Banana': 1200, 'Ananá': 2500, 'Melón': 3000, 'Uva': 1450}
 
 print(precios_frutas)
@@ -194,7 +195,6 @@ def ejecutar_agenda():
             print("Opción inválida. Ingresá 1 o 2.")
 
 ejecutar_agenda()
-'''
 
 # Ejercicio 10
 
@@ -210,5 +210,5 @@ capitales_a_paises = {}
 for pais, capital in paises_a_capitales.items():
     capitales_a_paises[capital] = pais
 
-print("Diccionario invertido (capitales de países):")
+print("Diccionario invertido (capitales ded países):")
 print(capitales_a_paises)
